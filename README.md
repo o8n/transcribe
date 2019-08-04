@@ -1,4 +1,4 @@
 # transcribe
 
-## Tl;DR
+## TL;DR
 写経する
